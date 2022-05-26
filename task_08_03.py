@@ -23,5 +23,5 @@ def calc_cube(x):
 def render_input(*args, **kwargs):
     return 1
 
-# calc_cube(5)
+calc_cube(5)
 render_input(1, 3, a=2, b=True, c="q")
